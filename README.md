@@ -1,2 +1,1 @@
-# carpeta-prueba
-este es un repositorio prueba 
+#este es la nueva prueba 
